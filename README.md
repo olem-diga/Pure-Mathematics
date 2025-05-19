@@ -9,15 +9,7 @@
 background: radial-gradient(circle, rgba(242,225,1,0.6) 20%, rgba(231,128,14,0.6) 100%);
     font-weight: 900;
   "
->➗ Mathematics ➗</div>
-
-# High School
-
-- [ ] [[Grade 10 Mathematics]]
-- [ ] [[Grade 11 Mathematics]]
-- [ ] [[Grade 12 Mathematics]]
-
-# Pure Mathematics
+>➗ Pure Mathematics ➗</div>
 
 -  [[Welcome To Pure Mathematics]]
 
